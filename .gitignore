@@ -1,0 +1,6 @@
+.venv/
+.venv313/
+build/
+dist/
+__pycache__/
+*.py[cod]
